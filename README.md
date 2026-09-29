@@ -1,7 +1,10 @@
-## Hi, I'm Nouval!
+## Hi, I'm Nouval
 
 ### Food Lover</br>
- 🔭 Studying Information Technology at the Universitas Brawijaya, Indonesia</br>
- 🌱 I’m currently learning on IoT and Cloud Computing</br>
- ⚡ I'm currently working on small projects to strengthen my coding fundamentals and knowledge</br>
+ Student at the Universitas Brawijaya, Indonesia</br>
+ I’m currently learning Fullstack Web Development</br>
+ I'm currently working on small projects as an Intern at PT. Telekomunikasi Seluler Indonesia</br>
+
+ ### Stack</br>
+ - Python, Flask, MySQL, FastAPI, PHP, Laravel, Next.js, Javascript, Docker, Jupyter notebook
 
