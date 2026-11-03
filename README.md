@@ -8,3 +8,5 @@
  ### Stack</br>
  - Python, Flask, MySQL, FastAPI, PHP, Laravel, Next.js, Javascript, Docker, Jupyter notebook
 
+### Current Project
+I'm currently working on Analytic Dashboard App for Telkomsel Merchant POIN used for Monitoring Sales & Creating Reports
